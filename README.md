@@ -1,3 +1,3 @@
 # n8n-demo
 
-let's test it 🚀
+let's test n8n 🚀
